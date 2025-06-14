@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main/PROJECT.png" alt="IR Remote Hub Render" width="600"/>
+  <img src="main/PROJECT.png" alt="Smart Ceiling-Mounted IR Remote Controller Hub" width="600"/>
 </p>
 
 
