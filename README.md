@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="main/PROJECT.png" alt="IR Remote Hub Render" width="600"/>
+</p>
+
+
+
 Universal Remote Controller Hub
 
 This project is a compact, ceiling-mountable, smart IR controller hub based on the ESP32-S3-WROOM. 
