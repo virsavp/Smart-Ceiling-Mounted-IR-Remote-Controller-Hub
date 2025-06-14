@@ -1,5 +1,14 @@
 Universal Remote Controller Hub
 
+
+📂 Jump to Files:
+
+🔧 Hardware (schematics & PCB)
+🧩 3D Model (enclosure STL)
+💻 Firmware Code (coming soon)
+
+
+
 This project is a compact, ceiling-mountable, smart IR controller hub based on the ESP32-S3-WROOM. 
 It enables universal control of IR-based appliances like TVs, air conditioners, and fans using web UI, OTA, and automation features.
 
