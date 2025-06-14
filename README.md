@@ -4,7 +4,6 @@ Universal Remote Controller Hub
 📂 Jump to Files:
 
 🔧 Hardware (schematics & PCB)
-🧩 3D Model (enclosure STL)
 💻 Firmware Code (coming soon)
 
 
