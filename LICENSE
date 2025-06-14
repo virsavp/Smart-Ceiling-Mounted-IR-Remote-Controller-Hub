@@ -1,0 +1,15 @@
+📄 LICENSE for Hardware (Schematics + PCB Layout)
+
+This project is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2).
+
+You may copy, modify, and distribute this design, provided that:
+
+All modified and derivative works must be licensed under the same license (CERN-OHL-S v2).
+
+You must provide notice of any modifications.
+
+You must include the original LICENSE file in all distributions.
+
+Full license text available at: https://ohwr.org/project/cernohl
+
+SPDX-License-Identifier: CERN-OHL-S-2.0
